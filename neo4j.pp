@@ -1,4 +1,4 @@
-class project::graphdb  
+class project::neo4j  
    {
 
  
